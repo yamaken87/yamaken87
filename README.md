@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamaken87&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yamaken87&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamaken87&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yamaken87&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yamaken87&theme=gruvbox&utcOffset=9)
